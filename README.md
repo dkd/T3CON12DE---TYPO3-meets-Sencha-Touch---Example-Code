@@ -19,6 +19,8 @@ On a example we will talk about how to develop Sencha Touch applications. See ho
 # TYPO3 Pagetype configuration's
 
 ## For Content
+
+<pre>
 jsonCEsPage = PAGE
 jsonCEsPage {
   typeNum = 1000
@@ -62,8 +64,11 @@ jsonCEsPage {
     }
   }
 }
+</pre>
 
 ## For Pages
+
+<pre>
 jsonPages < jsonCEsPage
 jsonPages {
   typeNum = 1001
@@ -75,3 +80,4 @@ jsonPages {
     } 
   }
 }
+</pre>
