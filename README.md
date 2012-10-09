@@ -69,7 +69,7 @@ jsonCEsPage {
 ## For Pages
 
 <pre>
-jsonPages < jsonCEsPage
+jsonPages &lt; jsonCEsPage
 jsonPages {
   typeNum = 1001
 
